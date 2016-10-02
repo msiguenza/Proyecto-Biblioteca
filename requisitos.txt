@@ -1,0 +1,62 @@
+------------------- Imprescindible ----------------------
+
+- Usuario Administrador: 
+
+	* Baja usuarios		OK
+
+        * Alta usuarios		OK
+
+        * Asignación de alquileres	OK
+
+        * introducir materiales OK, eliminar notas o modificarlas.		OK
+
+        * Introducir, modificar o elminiar artículos asociados a una revista. OK
+
+- Usuario común: 
+
+        * Visualizar y agregar sus propias notas 	OK
+
+- 	* Cuando se importan datos las claves se actualizan automaticamente si coinciden con las que ya haya introducidas.	OK
+
+------------------- Secundario --------------------------
+
+- Penalizar a los usuarios que no entregue la referencia a decision del administrador (por fecha o por penalizacion)	OK
+
+- Incidencias de usuario.	OK	
+
+- comboBox para seleccionar más optimamente el tipo de material.	OK
+
+- Fechas visuales para datos fecha 	OK
+
+- No se depura que el dni sean de 9 dígitos y una letra por si se registra algún documento de alguien extranjero y tiene otro formato de identificación	OK
+
+------------------- Recomendable ------------------------
+
+- Teclas de acceso rápido (Menemonic)		OK
+
+- Introducir los datos de la conexión desde la aplicación.	OK
+
+- Proyecto undecorated, salir mediante boton		OK
+
+- Crear funciones y procs	OK 
+		
+- Pdf para exportar	OK
+
+- Utilizacion de la clase Calendar para hacer una reserva en la Bd    OK
+
+- El administrador si quiere hacer préstamo para el mismo deberá hacer el préstamo. tendrá restringido la agregación de notas.OK
+
+- Bloqueos de usuarios	OK
+
+- EStados: 
+  	* reservas de usuarios no penalizados ni en posesion de reserva y con material disponible	OK
+ 	* Penalizaciones: penalización de un usuario y bloquee la posibildad de hacer reservas y hacer notas, segun estado del usuario cambia el botón 
+           de "bloquear usuario a "desbloquear usuario"		OK
+
+- Pestañas info informando de cantidades de la cantidad de tuplas de las tablas en la parte de Administrador 	OK
+
+- Introducir los datos de la conexión visualmente la primera vez que se ejecute el programa	OK
+
+- Funcion de conexión OK
+
+- campos obligatorios, y poner donde los halla un label "Campos obligatorios con el símbolo *"	OK

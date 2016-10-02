@@ -1,0 +1,13 @@
+- Instalador de la aplicación
+
+- Aplicación comprimida en zip para ejecución en eclipse.
+
+- Memoria y manual de la aplicación en formato PDF.
+
+- Adjuntamos librerias necesarias para la ejecución en eclipse, con el installador ya vienen incorporadas.
+
+- Fichero de requisitos.
+
+- Fichero para comprobar la posibilidad de importación de la aplicación.
+
+- Script de la base de datos con algunos registros de prueba.
